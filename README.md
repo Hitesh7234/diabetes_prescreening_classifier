@@ -116,7 +116,7 @@ SVM leads on recall and ROC-AUC at baseline. LightGBM underperforms before tunin
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/diabetes-prescreening-classifier.git
+git clone https://github.com/Hitesh7234/diabetes-prescreening-classifier.git
 cd diabetes-prescreening-classifier
 pip install -r requirements.txt
 ```
