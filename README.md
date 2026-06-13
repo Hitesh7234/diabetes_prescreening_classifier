@@ -44,8 +44,7 @@ diabetes-prescreening-classifier/
 ├── data/
 │   └── README.md              # Download instructions for dataset
 │
-├── Diabetes.ipynb             # Main analysis notebook
-├── requirements.txt           
+├── Diabetes.ipynb             # Main analysis notebook          
 ├── .gitignore                 
 ├── LICENSE                    
 └── README.md                  
