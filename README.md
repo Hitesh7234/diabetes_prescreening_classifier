@@ -157,5 +157,4 @@ optuna
 ## Author
 
 **Hitesh**  
-MSc Statistics | Targeting Data Science & Risk Analytics roles  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hiteshsinghstats/)) · [GitHub](https://github.com/Hitesh7234)
