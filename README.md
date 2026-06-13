@@ -156,4 +156,4 @@ optuna
 ## Author
 
 **Hitesh**  
-[LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hiteshsinghstats/) · [GitHub](https://github.com/Hitesh7234)
+[LinkedIn](https://www.linkedin.com/in/hiteshsinghstats/) · [GitHub](https://github.com/Hitesh7234)
